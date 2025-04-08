@@ -1,15 +1,15 @@
 # YOLOv11-Powered Real-Time Driver Monitoring and Traffic Sign Detection System 🚦🚗
 
-Overview
+## Overview
 This project presents a real-time AI-powered traffic safety system built using YOLOv11. It performs driver behavior monitoring and traffic sign detection, aiming to reduce accidents and improve road safety. The system also includes Text-to-Speech (TTS) feedback, enabling real-time voice alerts to enhance driver responsiveness.
 
-🔍 Key Features
+## 🔍 Key Features
 🧠 YOLOv11-Based Detection
 Leveraged YOLOv11 for accurate object detection.
 
 Achieved excellent performance across both Traffic Sign and Driver Monitoring datasets.
 
-📦 Datasets
+## 📦 Datasets
 Traffic Sign Dataset
 
 ~4,977 images
@@ -22,14 +22,14 @@ Driver Monitoring Dataset
 
 Includes behaviors like drowsiness, phone usage, and inattentiveness.
 
-🎯 Accuracy & Performance
+## 🎯 Accuracy & Performance
 Trained on over 14,000 images in total.
 
 Achieved high precision, recall, and mAP scores (details in the presentation).
 
 Real-time testing on webcam using Jupyter Notebook.
 
-💬 Text-to-Speech (TTS)
+## 💬 Text-to-Speech (TTS)
 Integrated pyttsx3 for live voice alerts.
 
 System vocally warns about detected objects like:
@@ -40,17 +40,17 @@ System vocally warns about detected objects like:
 
 "Speed limit 100 ahead"
 
-⚙️ Real-Time Implementation
+## ⚙️ Real-Time Implementation
 Real-time webcam detection via Jupyter Notebook (see webcam_test.py).
 
 Optimized for smooth detection with OpenCV and Ultralytics YOLO.
 
-🔋 Training on Google Colab (Free TPU)
+## 🔋 Training on Google Colab (Free TPU)
 Trained using Google Colab TPU (for free) — no Pro subscription required.
 
 Full training pipeline included in the notebook.
 
-🎥 Demo Videos
+## 🎥 Demo Videos
 Here are the results of our real-time testing:
 
 ▶️ Traffic Sign Detection Test
