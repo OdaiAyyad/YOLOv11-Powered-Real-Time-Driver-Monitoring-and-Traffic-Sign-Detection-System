@@ -7,7 +7,7 @@ This project presents a real-time AI-powered traffic safety system built using Y
 🧠 YOLOv11-Based Detection
 Leveraged YOLOv11 for accurate object detection.
 
-Achieved excellent performance across both Traffic Sign and Driver Monitoring datasets.
+Achieved excellent performance across both the Traffic Sign and Driver Monitoring datasets.
 
 ## 📦 Datasets
 ### Traffic Sign Dataset
@@ -20,25 +20,25 @@ Includes Stop signs, Speed Limits, Red Lights, and more.
 
 ~9,884 images
 
-Includes behaviors like drowsiness, phone usage, and inattentiveness.
+Includes behaviors like drowsiness, phone usage, and more.
 
 ## 🎯 Performance
 Trained on over 14,000 images in total.
 
-Achieved high precision, recall, and mAP scores (details in the presentation).
+Achieved high precision, recall, and mAP scores.
 
 Real-time testing on webcam using Jupyter Notebook.
 
 ## 💬 Text-to-Speech (TTS)
 Integrated pyttsx3 for live voice alerts.
 
-System vocally warns about detected objects like:
+The system vocally warns about detected objects like:
 
-"Red light detected"
+"Red light detected."
 
-"Attention: Stop sign ahead"
+"Attention: Stop sign ahead."
 
-"Speed limit 100 ahead"
+"Speed limit 100 ahead."
 
 ## ⚙️ Real-Time Implementation
 Real-time webcam detection via Jupyter Notebook (see webcam_test.py).
@@ -58,3 +58,7 @@ Here are the results of our real-time testing:
 ▶️ Driver Monitoring Detection Test
 
 Click the links or open them directly from your browser to watch the full demos.
+
+
+## 🚀 Getting Started
+### 🧬 Clone the Repository
