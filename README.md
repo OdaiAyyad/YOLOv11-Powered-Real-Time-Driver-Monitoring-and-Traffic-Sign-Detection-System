@@ -77,11 +77,17 @@ python webcam_test.py
 ## 📁 File Structure
 📦 YOLOv11-Driver-Monitoring-TSD
 ├── 📄 README.md
+
 ├── 📓 colab_training.ipynb
+
 ├── 🧪 webcam_test.py
+
 ├── 📽️ demo_videos/
+
 │   ├── traffic_sign_demo.mp4
+
 │   └── driver_monitoring_demo.mp4
+
 └── 📊 presentation.pdf
 
 ## 💡 Future Work
