@@ -12,22 +12,24 @@ Achieved excellent performance across both the Traffic Sign and Driver Monitorin
 ## 📦 Datasets
 ### Traffic Sign Dataset
 
-~4,977 images
+*~4,977 images*
 
 Includes Stop signs, Speed Limits, Red Lights, and more.
 
 ### Driver Monitoring Dataset
 
-~9,884 images
+*~9,884 images*
 
 Includes behaviors like drowsiness, phone usage, and more.
 
 ## 🎯 Performance
-Trained on over 14,000 images in total.
 
-Achieved high precision, recall, and mAP scores.
-
-Real-time testing on webcam using Jupyter Notebook.
+**Average Precision (AP@50):** [Your value here]
+- **Mean Average Precision (mAP@50:95):** [Your value here]
+- **Recall:** [Your value here]
+- **Precision:** [Your value here]
+- **Box Loss:** [Your value here]
+- **Class Loss:** [Your value here]
 
 ## 💬 Text-to-Speech (TTS)
 Integrated pyttsx3 for live voice alerts.
