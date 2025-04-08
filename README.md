@@ -24,12 +24,11 @@ Includes behaviors like drowsiness, phone usage, and more.
 
 ## 🎯 Performance
 
-**Average Precision (AP@50):** [Your value here]
-- **Mean Average Precision (mAP@50:95):** [Your value here]
-- **Recall:** [Your value here]
-- **Precision:** [Your value here]
-- **Box Loss:** [Your value here]
-- **Class Loss:** [Your value here]
+Trained on over 14,000 images in total.
+
+Achieved high precision, recall, and mAP scores for both models.
+
+Real-time testing on webcam using Jupyter Notebook.
 
 ## 💬 Text-to-Speech (TTS)
 Integrated pyttsx3 for live voice alerts.
@@ -55,9 +54,10 @@ Full training pipeline included in the notebook.
 ## 🎥 Demo Videos
 Here are the results of our real-time testing:
 
-▶️ Traffic Sign Detection Test
+## Demo Videos
 
-▶️ Driver Monitoring Detection Test
+- [Red Light & Speed Limit Detection Demo](https://www.youtube.com/watch?v=eQ1tMq20L7M)
+- [Stop Sign Detection Demo](https://www.youtube.com/watch?v=JKUsf6RV1CU)
 
 Click the links or open them directly from your browser to watch the full demos.
 
