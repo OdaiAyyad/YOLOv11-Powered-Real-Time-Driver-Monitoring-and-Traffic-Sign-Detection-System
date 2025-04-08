@@ -54,10 +54,8 @@ Full training pipeline included in the notebook.
 ## 🎥 Demo Videos
 Here are the results of our real-time testing:
 
-## Demo Videos
-
-- [Red Light & Speed Limit Detection Demo](https://www.youtube.com/watch?v=eQ1tMq20L7M)
-- [Stop Sign Detection Demo](https://www.youtube.com/watch?v=JKUsf6RV1CU)
+- [Traffic Signs Detection Demo](https://www.youtube.com/watch?v=eQ1tMq20L7M)
+- [Driver Behaviors Monitoring Demo](https://www.youtube.com/watch?v=JKUsf6RV1CU)
 
 Click the links or open them directly from your browser to watch the full demos.
 
@@ -75,22 +73,6 @@ pip install ultralytics opencv-python pyttsx3
 
 ### 🧪 Run Real-Time Detection (Webcam + TTS)
 python webcam_test.py
-
-## 📁 File Structure
-📦 YOLOv11-Driver-Monitoring-TSD
-├── 📄 README.md
-
-├── 📓 colab_training.ipynb
-
-├── 🧪 webcam_test.py
-
-├── 📽️ demo_videos/
-
-│   ├── traffic_sign_demo.mp4
-
-│   └── driver_monitoring_demo.mp4
-
-└── 📊 presentation.pdf
 
 ## 💡 Future Work
 Improve real-time TTS precision for more dynamic updates.
