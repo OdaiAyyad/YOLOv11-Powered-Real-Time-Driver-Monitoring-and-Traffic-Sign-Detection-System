@@ -63,18 +63,32 @@ Click the links or open them directly from your browser to watch the full demos.
 ## 🚀 Getting Started
 ### 🧬 Clone the Repository
 git clone https://github.com/your-username/YOLOv11-Driver-Monitoring-TSD.git
+
 cd YOLOv11-Driver-Monitoring-TSD
 
 ### 📦 Install Dependencies
 Install required libraries (ideally inside a virtual environment):
 
-bash
-Copy
-Edit
 pip install ultralytics opencv-python pyttsx3
 
 ### 🧪 Run Real-Time Detection (Webcam + TTS)
-bash
-Copy
-Edit
 python webcam_test.py
+
+## 📁 File Structure
+📦 YOLOv11-Driver-Monitoring-TSD
+├── 📄 README.md
+├── 📓 colab_training.ipynb
+├── 🧪 webcam_test.py
+├── 📽️ demo_videos/
+│   ├── traffic_sign_demo.mp4
+│   └── driver_monitoring_demo.mp4
+└── 📊 presentation.pdf
+
+## 💡 Future Work
+Improve real-time TTS precision for more dynamic updates.
+
+Extend the model to support additional driver behaviors (e.g., smoking, seatbelt usage).
+
+Optimize detection performance on embedded devices like Raspberry Pi.
+
+
