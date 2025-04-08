@@ -10,19 +10,19 @@ Leveraged YOLOv11 for accurate object detection.
 Achieved excellent performance across both Traffic Sign and Driver Monitoring datasets.
 
 ## 📦 Datasets
-Traffic Sign Dataset
+### Traffic Sign Dataset
 
 ~4,977 images
 
 Includes Stop signs, Speed Limits, Red Lights, and more.
 
-Driver Monitoring Dataset
+### Driver Monitoring Dataset
 
 ~9,884 images
 
 Includes behaviors like drowsiness, phone usage, and inattentiveness.
 
-## 🎯 Accuracy & Performance
+## 🎯 Performance
 Trained on over 14,000 images in total.
 
 Achieved high precision, recall, and mAP scores (details in the presentation).
